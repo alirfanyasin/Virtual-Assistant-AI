@@ -1,5 +1,5 @@
 # Virtual-Assistant-AI
-Virtual assistant yaitu sebuah program yang dapat mendengar dan menuruti perintah anda
+Virtual assistant yaitu sebuah program yang dapat berbicara, mendengar dan menuruti perintah anda
 ## Requirement
 Persyaratan untuk menggunakan aplikasi ini harus memenuhi:
 - [Code Editor](https://code.visualstudio.com/) - Visual Studio Code
